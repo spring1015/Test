@@ -1,0 +1,1 @@
+echo '天天向上' >> hello.txt
